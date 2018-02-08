@@ -10,9 +10,9 @@
   <name>CoolStore Inventory Service</name>
   <description>CoolStore Inventory Service with WildFly Swarm</description>
   <properties>
-    <version.wildfly.swarm>2017.8.1</version.wildfly.swarm>
+    <version.wildfly.swarm>2017.10.0</version.wildfly.swarm>
     <fabric8.version>2.3.4</fabric8.version>
-    <fabric8.maven.plugin.version>3.5.32</fabric8.maven.plugin.version>
+    <fabric8.maven.plugin.version>3.5.34</fabric8.maven.plugin.version>
     <h2.version>1.4.187</h2.version>
     <postgresql.version>9.4.1207</postgresql.version>
     <failOnMissingWebXml>false</failOnMissingWebXml>
