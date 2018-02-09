@@ -16,6 +16,7 @@
 	</parent>
 
   <properties>
+    <spring-boot.version>1.5.8.RELEASE</spring-boot.version>
     <spring-boot.bom.version>1</spring-boot.bom.version>
     <fabric8.version>2.3.4</fabric8.version>
     <spring.k8s.bom.version>0.2.0.RELEASE</spring.k8s.bom.version>
